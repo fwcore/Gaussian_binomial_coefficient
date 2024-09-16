@@ -17,3 +17,4 @@ The memory usage complexity is $O(n^3)$, since it caches all $\binom{m+n}{m}_q$ 
 * It takes about 20 min and 8 GB RAM to compute $\binom{736}{368}_q$.
 * It takes about 50 min and 18 GB RAM to compute $\binom{932}{416}_q$.
 
+The largest integral coefficient of $\binom{932}{416}_q$ is the integral cofficient of $q^{416*416/2}$, which is about $e^{564}$, or $10^{245}$.
